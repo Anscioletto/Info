@@ -1,2 +1,4 @@
-# Info
-Info 
+# Computer Engineer and AI 
+I am a Computer Engineer specializing in Data Science and Artificial Intelligence, currently pursuing my M.Sc. at the University of Salerno. As a Freelance Software & AI Developer, I focus on designing, building, and deploying end-to-end production AI applications, SaaS solutions, and scalable full-stack software systems.  
+My technical background covers backend architecture, relational database management, and cloud deployment using Python, TypeScript, React, Node.js, and PostgreSQL. My engineering projects range from commercial AI chatbot products and full-stack automation bots to high-performing e-commerce platforms hosted across modern cloud environments like Vercel, Netlify, and Coolify.  
+Beyond full-stack development, I actively integrate agentic AI tools—such as Claude Code and Antigravity—with custom-built skills to streamline code reviews, accelerate development cycles, and optimize deployment pipelines. I am passionate about solving complex engineering challenges, architecting scalable systems, and shipping high-impact AI products.
